@@ -2,7 +2,6 @@
 Codes mémoire actuariat
 
 Fichiers de données :
-
   - BCE : all_yield.csv (toutes les données) / yield_all_years.csv (les observations des maturités annuelles) / yield_all_months.csv (les observations des maturités mensuelles)
   - EIOPA : eiopa.csv
   - Indice action MSCI : data_MSCI.csv
