@@ -8,9 +8,11 @@ Fichiers de données :
   - Taux obligations souveraines britanniques : conc_data.csv
   
   Fichiers d'input :
+  
     - Chargement des données : chargementDonnees.R
     - Script des fonctions : Fonctions_modeles_graphes.R
     
    Fichier d'output :
+   
     - Calculs et résultats présentés dans le mémoire : memoire_calculs.R
     - Script des graphes : memoire_graphes.R
